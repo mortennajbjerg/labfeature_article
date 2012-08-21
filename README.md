@@ -12,11 +12,11 @@ Tags (General tags vocabulary)
 Image (Seperate field with Image Style for teaser and full node crops)
 
 
--- Views --
+-- Views --  
 Article Archive (containing a summary page and a feed)
 
 
 
--- Note --
+-- Note --  
 Display Suite is required and used for semantics  
 EPSA crop is required for image cropping
